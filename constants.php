@@ -5,7 +5,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
-define('DB_NAME', 'codingbirds');
+define('DB_NAME', 'ZangticsEm');
 
 /**
  * Define no. of records to be load each time
